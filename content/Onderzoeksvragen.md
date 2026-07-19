@@ -1,0 +1,4 @@
+-Waarom is het perceel aan Ginnekenstraat 50 niet goed vindbaar op de kadasteroverzichten? Is er verschil tussen de indicaties op de kaarten en op de aktes?
+-Kan de daadwerkelijke akte van aankoop van de woning, omstreeks 1818, achterhaald worden?
+-Wat zijn de verdere omzwervingen van Cornelis geweest? Is hij nog lang in belgië / mechelen geweest? Is hij naar Batavia gegaan?
+-Wat staat er in die moeilijk leesbare tekst op het suppletiefolio van Petrus Cornelis Jespers? Wat zegt dat over zijn verblijf in Oost-Indië en terugkeer? Mogelijk geeft het presentienummer inzicht in de studiezaal te Den Haag.
