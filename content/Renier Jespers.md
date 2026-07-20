@@ -1,3 +1,6 @@
+---
+draft: true
+---
 geb 4 juni 1870
 Kleermaker Renier trouwt op 9 oktober 1903
 

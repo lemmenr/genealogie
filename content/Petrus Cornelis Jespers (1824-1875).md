@@ -1,3 +1,6 @@
+---
+order: 10
+---
 ### Jonge jaren, 1824-~1840
 Petrus Cornelis Jespers wordt [[Petrus Cornelis Jespers (1824-1875) geboorteakte|geboren]] op 11 maart 1824 te Breda, een middelgrote vestingstad met dan ca 13.000 inwoners. Zijn vader is [[Johannes Jespers ()|Johannes Jespers]], hoefsmid, 37 jaar oud, zijn moeder [[Kock, Maria Catharina Cecilia de - overlijdensakte|Marie Catharina Cecilia de Kock]], 28 jaar oud. Hij is het derde kind in het gezin. Zijn broer [[Cornelis Jespers|Cornelis]] is bijna vier jaar oud, zijn zus [[Maria Catharina Jespers|Maria Catharina]] twee. 
 

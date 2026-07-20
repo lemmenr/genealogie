@@ -1,3 +1,7 @@
+---
+draft: "false"
+---
+
 <ul class="boom">
   <li>
     <details open>
@@ -83,6 +87,6 @@ In 1871 verblijft Petrus vanaf 9 november kort aan het Lindenkruis te [[Jespers,
 
 Petrus' moeder, [[Kock, Maria Catharina Cecilia de - 1872 overlijdensakte]] overlijdt op 11-1 1872 te Breda, op 76 jarige leeftijd. Ze woonde nog steeds in Breda. Petrus is dan 48 jaar oud. 12 januari 1872 -een dag na het overlijden van zijn moeder- vertrekt Petrus, volgens het bevolkingsregister Maastricht, naar Den Bosch. Of het vertrek met het overlijden van zijn moeder samenhangt is niet bekend. 
 
-Hij duikt echter op in Heythuysen, waar hij op 20 juli 1872 op z'n 48ste trouwt met de 23-jarige [[Joanna van den Eertwegh (1849-1919) - levensloop|Joanna van den Eertwegh]]. De bijlagen van de huwelijksakten geven een attest van onvermogen, uitgegeven door Maastricht. Dit doet vermoeden dat hij ná zijn verblijf in Maastricht vrij direct naar Heythuysen is gegaan. Het leeftijdsverschil met Joanna is opmerkelijk.
+Hij duikt echter op in Heythuysen, waar hij op 20 juli 1872 op z'n 48ste trouwt met de 23-jarige [[Joanna van den Eertwegh (1849-1919)|Joanna van den Eertwegh]]. De bijlagen van de huwelijksakten geven een attest van onvermogen, uitgegeven door Maastricht. Dit doet vermoeden dat hij ná zijn verblijf in Maastricht vrij direct naar Heythuysen is gegaan. Het leeftijdsverschil met Joanna is opmerkelijk.
 
-[[Joanna van den Eertwegh (1849-1919) - levensloop|Zie de levensloop van Joanna voor verdere details]]. 
+[[Joanna van den Eertwegh (1849-1919)|Zie de levensloop van Joanna voor verdere details]]. 
